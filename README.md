@@ -47,6 +47,7 @@ A curated collection of resources covering all aspects of load-testing using [Ts
 - Load Testing with Tsung Quick Start @ Canonical:
   - [part 1](https://web.archive.org/web/20150905161702/http://voices.canonical.com/isd/2010/11/14/load-testing-with-tsung-quick-start/)
   - [part 2](https://web.archive.org/web/20150905162148/http://voices.canonical.com/isd/2010/12/10/tsung-quick-start-part-2/)
+- [Hybrismart: Performance Testing Tools: Tsung](https://hybrismart.com/2020/02/28/part-2-performance-testing-tools-tsung/) - step by step guide, from the basics to complex scenarios
 - [Building a test setup for load testing with Tsung](https://hml.io/2015/08/04/loadtesting-with-tsung-and-multiple-ips/) - Multiple IPs for using different sources and destinations for web requests.
 - [Running Tsung against opentaps server](https://www.opentaps.org/docs/index.php/Running_Tsung_against_opentaps_server)
 - [Building a Load Test with Tsung for a Login and Post Session with dynamic url-encoded variables](https://www.innoq.com/en/blog/building-a-load-test-with-tsung/) - Blogpost covers a step-by-step instruction on how to build a loadtest for a Ruby on Rails app with a login and post session and dynamic variables with Tsung.
